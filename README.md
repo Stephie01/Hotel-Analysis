@@ -1,6 +1,6 @@
 # Hotel-Analysis
 ## Problem Statement
-To investigate the impact of customer reviews on hotel satisfaction and identify key factors influencing customer sentiment in order to improve the overall guest experience and make informed business decisions for hotels.
+The main aim is to investigate the impact of customer reviews on hotel satisfaction and identify key factors influencing customer sentiment in order to improve the overall guest experience and make informed business decisions for hotels.
 
 ## Objectives
 
